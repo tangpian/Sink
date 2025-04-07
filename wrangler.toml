@@ -1,5 +1,6 @@
 name = "sink"
 compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2025-04-07"
 upload_source_maps = true
 pages_build_output_dir = "./dist"
 
