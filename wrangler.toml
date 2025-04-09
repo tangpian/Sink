@@ -13,3 +13,7 @@ binding = "AI"
 [[kv_namespaces]]
 binding = "KV"
 id = "967516deed7145218faae26e4859c412"
+
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "sink"
